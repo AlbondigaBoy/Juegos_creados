@@ -36,7 +36,7 @@ class Owdle_v2:
     Tracer = Character('Female', 'Energy', 'Good', 'Modified', 'Europe', 2016, 'Tracer')
     Widowmaker = Character('Female', 'Ballistic', 'Evil', 'M', 'Europe', 2016, 'Widowmaker')
     Winston = Character('Male', 'Non ballistic', 'Good', 'M', 'Europe', 2016, 'Winston')
-    Wrecking_Ball = Character('Male', 'Ballistic', 'Neutral', 'M', 'Asia-Pacific', 2018,'Wreking Ball')
+    Wrecking_Ball = Character('Male', 'Ballistic', 'Neutral', 'M', 'Asia-Pacific', 2018,'Wrecking Ball')
     Zarya = Character('Female', 'Energy', 'Neutral', 'NM', 'Asia-Pacific', 2016, 'Zarya')
     Zenyatta = Character('Male', 'Unarmed', 'Good', 'NM', 'Asia-Pacific', 2016, 'Zenyatta')
 

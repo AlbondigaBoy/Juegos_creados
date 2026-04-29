@@ -118,6 +118,6 @@ fallo = 'red'
 
 rH = random.choice(Owdle_v2.chList)
 nameH = rH.name
-print(rH.name)
+
 
 root.mainloop()
